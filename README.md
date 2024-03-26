@@ -24,42 +24,34 @@ O layout da aplicação está disponível no Figma:
 [🔗 Acesse ](https://www.figma.com/file/GkqG5AUJe3ppcUEHfvOX6z/food-explorer?node-id=0%3A1)
 
 
-## Execução do Projeto
+## Pré-requisitos
 
-Este projeto é dividido em duas partes: Backend (API) e Frontend. O Backend deve estar em execução para que o Frontend seja renderizado.
-
-### Pré-requisitos
-
-Antes de começar, é necessário ter as seguintes ferramentas instaladas:
+Este projeto é dividido em duas partes: Backend (API) e Frontend. O Backend deve estar em execução para que o Frontend seja renderizado. Recomendado utilizar um editor de código como o VSCode. Faz-se necessário ter as seguintes ferramentas instaladas. 
 
 - Git
 - Node.js
+  
 
-Além disso, é recomendado utilizar um editor de código como o VSCode.
-
-# Instale as dependências
+### 1- Instale as dependências
 $ npm install
 
-# Execute as migration e seed
+### 2- Execute as migration e seed
 $ npm migrate
 $ npm seed
 
-# Execute a aplicação em modo de desenvolvimento
+### 3- Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 
-# Login do ADM
+### Login do ADM
 
-$ email: admin@email.com
-$ password: 112233
+- email: admin@email.com
+- password: 112233
 
-# Rodando na porta:3333 - acesse <http://localhost:3333>
+<br>
+
+## Executando Projeto:
 
 ```
-
-
-#### 🎲 Rodando a aplicação (Frontend)
-
-```bash
 
 # Clone o repositório
 $ https://github.com/LucasLoopsT/Food_Explorer.git
