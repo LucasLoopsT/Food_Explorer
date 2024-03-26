@@ -1,19 +1,8 @@
 # Food Explorer
 
-Seu cardápio digital.
-
-Status: Em desenvolvimento...
-
 ## Sobre
 
-O Food Explorer é um aplicativo de cardápio digital para um restaurante fictício. Este projeto aborda os seguintes temas:
-
-- React
-- Routes
-- Components
-- Props
-- Hooks
-- Contexto
+O Food Explorer é um aplicativo de cardápio digital para um restaurante fictício. Fique a vontade para logar e ver nosso vasto catálogo!
 
 ## Funcionalidades
 
@@ -32,7 +21,8 @@ O Food Explorer é um aplicativo de cardápio digital para um restaurante fictí
 
 O layout da aplicação está disponível no Figma:
 
-[![Acessar Layout - Figma](https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361)](https://www.figma.com/file/GkqG5AUJe3ppcUEHfvOX6z/food-explorer?node-id=0%3A1)
+[🔗 Acesse ](https://www.figma.com/file/GkqG5AUJe3ppcUEHfvOX6z/food-explorer?node-id=0%3A1)
+
 
 ## Execução do Projeto
 
